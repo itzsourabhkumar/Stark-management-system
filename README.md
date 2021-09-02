@@ -1,0 +1,2 @@
+# Stark-management-system
+Dictionary_and_list_based_Inventory_management_System
